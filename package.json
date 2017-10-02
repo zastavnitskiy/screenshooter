@@ -1,0 +1,20 @@
+{
+  "name": "screenshoter",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Pavel Zastavnitskiy",
+  "dependencies": {
+    "puppeteer": "^0.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.8.0",
+    "eslint-config-recommended": "^1.5.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-node": "^5.2.0",
+    "eslint-plugin-prettier": "^2.3.1",
+    "eslint-plugin-promise": "^3.5.0",
+    "eslint-plugin-standard": "^3.0.1",
+    "prettier": "^1.7.3"
+  }
+}
